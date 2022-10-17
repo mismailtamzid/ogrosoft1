@@ -1,0 +1,5 @@
+//write customs settings here
+{
+    "css.validate": false,
+    "tailwindCSS.emmetCompletions": true
+}
